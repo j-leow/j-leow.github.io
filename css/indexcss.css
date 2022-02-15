@@ -3,8 +3,11 @@ Author: Jules Ackleow
 Date: 02/15/2022
 */
 
-h1 {
+* {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
     color: firebrick;
 }
 
